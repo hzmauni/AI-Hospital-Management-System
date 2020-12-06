@@ -1,0 +1,18 @@
+Diagnoses:
+['Mauni', 'flu']
+['Karim', 'flu']
+['Rahim', 'common cold']
+['Joy', 'common cold']
+
+Patients and symptoms:
+['Rahim', 'headache']
+['Karim', 'headache']
+['Hasib', 'headache']
+['Karim', 'fever']
+['Hasib', 'fever']
+['Hasib', 'sneezing']
+['Rahim', 'sneezing']
+['Karim', 'runny nose']
+['Rahim', 'runny nose']
+['Joy', 'runny nose']
+['Joy', 'sneezing']
